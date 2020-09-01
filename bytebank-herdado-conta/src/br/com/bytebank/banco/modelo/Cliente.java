@@ -1,5 +1,12 @@
 package br.com.bytebank.banco.modelo;
 
+
+/**
+ * Classe modelo para criar um cliente no bytebank
+ *
+ * @author Gabriel de S. Silva Barrence
+ * @version 0.1
+ */
 public class Cliente {
 
     private String nome;
