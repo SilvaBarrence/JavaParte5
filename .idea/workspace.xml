@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f326fbc-1975-4c15-8635-0a501b7bbccd" name="Default Changelist" comment="" />
+    <list default="true" id="9f326fbc-1975-4c15-8635-0a501b7bbccd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bytebank-herdado-conta/.idea/artifacts/bytebank_herdado_conta_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/out/production/bytebank-herdado-conta/modelo/CalculadorDeImposto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/out/production/bytebank-herdado-conta/modelo/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/out/production/bytebank-herdado-conta/modelo/Conta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/out/production/bytebank-herdado-conta/modelo/ContaCorrente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/out/production/bytebank-herdado-conta/modelo/ContaPoupanca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/out/production/bytebank-herdado-conta/modelo/SaldoInsulficienteException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/out/production/bytebank-herdado-conta/modelo/SeguroDeVida.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/out/production/bytebank-herdado-conta/modelo/Tributavel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/out/production/bytebank-herdado-conta/teste/TestaContas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/out/production/bytebank-herdado-conta/teste/TesteSaca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/out/production/bytebank-herdado-conta/teste/TestesTributaveis.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gpiwyKbtRAw8FkhjD1WJ3VToAZ" />
   <component name="ProjectViewState">
@@ -15,7 +33,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/bytebank-herdado-conta" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bytebank-biblioteca" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -44,13 +66,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="447" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1598818425796" />
+    <state x="432" y="201" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1599259834608">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="432" y="201" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1599259834608" />
     <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1598819899170">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1598819899170" />
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1598819932147">
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1599267215066">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598819932147" />
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599267215066" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1599265656571">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599265656571" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1599267200298">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1599267200298" />
   </component>
 </project>
